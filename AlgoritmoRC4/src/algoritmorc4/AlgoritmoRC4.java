@@ -26,4 +26,6 @@ public class AlgoritmoRC4 {
             System.err.println(e.getMessage());
         }
     }
+    
+    // esse aqui mudou !! FABINHO
 }
